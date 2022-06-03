@@ -90,7 +90,7 @@ body{
   
   .form{
     width: 400px;
-    height: 230px;
+    height: 500px;
     background: #edeff1;
     margin: 0px auto;
     padding-top: 20px;
@@ -118,6 +118,66 @@ body{
   input[type="text"]:focus{
     border: 2px solid #f9b8db
   }
+
+  input[type="password"]{
+    display: block;
+    width: 309px;
+    height: 35px;
+    margin: 15px auto;
+    background: #fff;
+    border: 0px;
+    padding: 5px;
+    font-size: 16px;
+     border: 2px solid #fff;
+    transition: all 0.3s ease;
+    border-radius: 5px;
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+  }
+  
+  input[type="password"]:focus{
+    border: 2px solid #f9b8db
+  }
+
+  input[type="email"]{
+    display: block;
+    width: 309px;
+    height: 35px;
+    margin: 15px auto;
+    background: #fff;
+    border: 0px;
+    padding: 5px;
+    font-size: 16px;
+     border: 2px solid #fff;
+    transition: all 0.3s ease;
+    border-radius: 5px;
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+  }
+  
+  input[type="email"]:focus{
+    border: 2px solid #f9b8db
+  }
+
+  input[type="date"]{
+    display: block;
+    width: 309px;
+    height: 35px;
+    margin: 15px auto;
+    background: #fff;
+    border: 0px;
+    padding: 5px;
+    font-size: 16px;
+     border: 2px solid #fff;
+    transition: all 0.3s ease;
+    border-radius: 5px;
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+  }
+  
+  input[type="date"]:focus{
+    border: 2px solid #f9b8db
+  }
   
   button{
     display: block;
@@ -128,6 +188,7 @@ body{
     color: #fff;
     border: 0px;
     margin: auto;
+    margin-top: 40px;
     border-radius: 5px;
     -moz-border-radius: 5px;
     -webkit-border-radius: 5px;

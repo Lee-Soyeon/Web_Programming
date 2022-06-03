@@ -2,31 +2,36 @@
   width: 940px;
   margin: 0px auto;
   padding: 20px;
-  border: 1px solid #bcbcbc;
+  border: 1px solid #5a5a5a;
 }
 #header {
   padding: 20px;
   margin-bottom: 20px;
-  border: 1px solid #bcbcbc;
+  text-align: center;
+  border: 1px solid #5a5a5a;
+  background-color: #fadade;
 }
 #content {
   width: 580px;
+  height: 300px;
   padding: 20px;
   margin-bottom: 20px;
   float: left;
-  border: 1px solid #bcbcbc;
+  border: 1px solid #5a5a5a;
+  background-color: #ffd5f0;
 }
 #sidebar {
   width: 260px;
+  height: 300px;
   padding: 20px;
   margin-bottom: 20px;
   float: right;
-  border: 1px solid #bcbcbc;
+  border: 1px solid #5a5a5a;
+  background-color: #f8d7ff;
 }
 #footer {
   clear: both;
   padding: 20px;
-  border: 1px solid #bcbcbc;
+  border: 1px solid #5a5a5a;
+  background-color: #d8eafb;
 }
-
-
