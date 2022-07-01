@@ -1,0 +1,21 @@
+/* 여기는 CSS 주석 */
+
+header {
+    color: yellow;
+}
+
+header h1 {
+    color: aqua;
+}
+
+header p {
+    color: aquamarine;
+}
+
+h1 {
+    color: red;
+}
+
+p {
+    color: blue;
+}
