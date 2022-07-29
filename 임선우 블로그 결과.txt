@@ -1,0 +1,168 @@
+{
+  lastBuildDate: 'Fri, 29 Jul 2022 16:02:23 +0900',
+  total: 3225,
+  start: 1,
+  display: 20,
+  items: [
+    {
+      title: '점을 발견해 내는 것 ─ 『유령의 마음으로』 <b>임선우</b> 작가 인터뷰',
+      link: 'https://blog.naver.com/minumworld?Redirect=Log&logNo=222705956992',
+      description: '<b>임선우</b> 작가님 안녕하세요, 첫 책 &lt;유령의 마음으로&gt;가 출간된 지 2주가 조금 지났어요. 어떻게 지내고... 인물, 외투와 사랑에 빠진 인물을 만나 보세요! 유령의 마음으로 저자 <b>임선우</b> 출판 민음사 발매 2022.03.25.',
+      bloggername: '민음사 블로그',
+      bloggerlink: 'https://blog.naver.com/minumworld',
+      postdate: '20220420'
+    },
+    {
+      title: '[강추뮤지컬] 뮤지컬 &lt;빌리엘리어트&gt;  Dream Ballet <b>임선우</b>... ',
+      link: 'https://blog.naver.com/janny80?Redirect=Log&logNo=222830089923',
+      description: 'https://www.youtube.com/watch?v=YkRNzRrpVhc 2010년 초연 했을때 1대 빌리 <b>임선우</b> 배우와 신현지 배우 입니다 저는 <b>임선우</b> 배우를 좋아해서 2번이나 보러갔었어요! ;) 빌리는 시즌이 바뀔때마다 새 배우와 만나요... ',
+      bloggername: '춤추는 작가 Bravo 유쾌발랄 라이프',
+      bloggerlink: 'https://blog.naver.com/janny80',
+      postdate: '20220726'
+    },
+    {
+      title: '중국 베이징 문화 이야기, 리뷰, <b>임선우</b>, 지식과감성',
+      link: 'https://blog.naver.com/pray4iandu?Redirect=Log&logNo=222674227855',
+      description: '중국 베이징 문화 이야기 저자 <b>임선우</b> 출판 지식과감성 발매 2022.02.14. 코로나로 인해 다른 나라와의 왕래가 이전에 비해 줄어들게 됐다. 하지만 이것은 일시적인 현상일 뿐 전 세계 대부분의 나라로의 여행이... ',
+      bloggername: '꼬의블로그',
+      bloggerlink: 'https://blog.naver.com/pray4iandu',
+      postdate: '20220316'
+    },
+    {
+      title: '언젠가부터 아무것도 바라지 않았다.&quot;｜유령의 마음으로 - <b>임선우</b>',
+      link: 'https://blog.naver.com/stone2640?Redirect=Log&logNo=222722216978',
+      description: '#유령의마음으로 #<b>임선우</b> #민음사 어릴 적 이불을 뒤집어 쓰고 유령 흉내를 내는 장난을 한 번 쯤은 쳐본... 유령의 마음으로 - <b>임선우</b> 유령은 자신이 왜 생겨났는지에 대해서 알지 못했고, 00의 감정을 그대로... ',
+      bloggername: '맹욱의 일상을 책 - 우다',
+      bloggerlink: 'https://blog.naver.com/stone2640',
+      postdate: '20220506'
+    },
+    {
+      title: '유령의 마음으로 - <b>임선우</b>',
+      link: 'https://blog.naver.com/milanaise?Redirect=Log&logNo=222807919417',
+      description: '유령의 마음으로 <b>임선우</b>, 민음사 여기 실린 단편들을 어떻게 묘사해야 좋을까.. 읽으면서도 한참을... 사람들이 이 단편만이라도 읽었으면 하고 바랐다. 유령의 마음으로 저자 <b>임선우</b> 출판 민음사 발매 2022.03.25.',
+      bloggername: '해마의 기록',
+      bloggerlink: 'https://blog.naver.com/milanaise',
+      postdate: '20220711'
+    },
+    {
+      title: '국립극장 해오름극장 (손유희/이현준/강민우/오타 아리카/<b>임선우</b>)',
+      link: 'https://blog.naver.com/jeongdami27?Redirect=Log&logNo=222681393744',
+      description: "방자 역의 <b>임선우</b> 발레리노는 뮤지컬 빌리 엘리어트 국내 1대 빌리라고 한다. '춤추는 헤르만 헤세'라는 필명으로 브런치에 글도 게재하고 있는데, 춤을 세상에 들려드리고 싶다는 소개가 인상적이다. 한국... ",
+      bloggername: '청사초록, 초록빛 청춘史의 기록',
+      bloggerlink: 'https://blog.naver.com/jeongdami27',
+      postdate: '20220324'
+    },
+    {
+      title: '도서 | &apos;유령의 마음으로&apos;(<b>임선우</b> 作).',
+      link: 'https://blog.naver.com/dal_comi05?Redirect=Log&logNo=222799908128',
+      description: "'유령의 마음으로'(<b>임선우</b> 作)/출처: 알라딘 이번 도서는 '유령의 마음으로'라는 책으로 <b>임선우</b> 작가의 단편 소설집이다. 나는 보통 책을 구입할 때면 출판사에서 운영하는 포스팅이나 (이것만큼 출판하는 책에... ",
+      bloggername: '매일 기록.',
+      bloggerlink: 'https://blog.naver.com/dal_comi05',
+      postdate: '20220704'
+    },
+    {
+      title: '[서평] <b>임선우</b> 작가 『유령의 마음으로』   ―   우리가 보지... ',
+      link: 'https://blog.naver.com/rudxostar?Redirect=Log&logNo=222694745528',
+      description: '[빛이 나지 않아요] 중 유령의 마음으로 저자 <b>임선우</b> 출판 민음사 발매 2022.03.25. [유령의 마음으로]는 <b>임선우</b> 작가의 첫 번째 책이다. <b>임선우</b> 작가는 만 24세의 나이에 문학사상에서 등단하였는데, 당시 등단작인... ',
+      bloggername: '조의 일기',
+      bloggerlink: 'https://blog.naver.com/rudxostar',
+      postdate: '20220408'
+    },
+    {
+      title: '문학잡지 《유령들》 소설 <b>임선우</b> 「오키나와에 눈이 내렸어」... ',
+      link: 'https://blog.naver.com/jongsu0428?Redirect=Log&logNo=222798352062',
+      description: '2호를 읽었는데, 여기서만 <b>임선우</b>, 강보원, 문보영이니까. 모두 민음사에서 책을 낸 사람들이다. 작가... <b>임선우</b> 『유령의 마음으로』를 읽고 감동했다. 특히 앞의 세 편은 (뒤랑 왜 이렇게 달라? <b>임선우</b>는 앞과... ',
+      bloggername: '비니 쓴 오리의 블로그',
+      bloggerlink: 'https://blog.naver.com/jongsu0428',
+      postdate: '20220703'
+    },
+    {
+      title: '흔한 거 말고 &apos;매력&apos;적인 이야기를 찾는 그대에게 - <b>임선우</b>의... ',
+      link: 'https://blog.naver.com/beekyle0402?Redirect=Log&logNo=222815436091',
+      description: '여기서 이 사람은 &lt;유령의 마음으로&gt;를 쓴 작가 <b>임선우</b>를 말한다. 그가 쓴 글을 보면 일상에서 얼마나... 이야기만큼 <b>임선우</b> 작가의 이야기 또한 너무나 독특했다. 그런데 의아한 점은 이 소설이 말도 안되는... ',
+      bloggername: 'Needy의 Bookroom',
+      bloggerlink: 'https://blog.naver.com/beekyle0402',
+      postdate: '20220717'
+    },
+    {
+      title: '유령의 마음으로 - <b>임선우</b>',
+      link: 'https://blog.naver.com/lomm_203?Redirect=Log&logNo=222755643358',
+      description: '「커튼콜, 연장전, 라스트 팡」 _『유령의 마음으로』 <b>임선우</b> • 곁을 내어주는 일에 대해 생각했다.... 곁을 내어주는 일에 대해 생각할 거다. 매번 처음으로 돌아가 새롭게 놀라듯이. #유령의마음으로 #<b>임선우</b>',
+      bloggername: 'stiff upper lip?',
+      bloggerlink: 'https://blog.naver.com/lomm_203',
+      postdate: '20220602'
+    },
+    {
+      title: '<b>임선우</b> - 유령의 마음으로',
+      link: 'https://blog.naver.com/aibaragi?Redirect=Log&logNo=222741745362',
+      description: "유령의 마음으로 저자 <b>임선우</b> 출판 민음사 발매 2022.03.25. '섬세하게 쌓아 온 장면에서 순간적으로 못이... 1995년생의 어린 작가 <b>임선우</b>의 소설집 '유령의 마음으로'를 아주 인상 깊게 읽었다. 여러 필드에서... ",
+      bloggername: '나의 작고 큰 지구',
+      bloggerlink: 'https://blog.naver.com/aibaragi',
+      postdate: '20220522'
+    },
+    {
+      title: '유령의 마음으로 - <b>임선우</b>',
+      link: 'https://blog.naver.com/mysthj?Redirect=Log&logNo=222760137163',
+      description: '유령의 마음으로 - <b>임선우</b> 잠시 뒤에 유령이 나를 끌어안았는데, 그것은 내가 태어나서 처음으로 받아 보는, 한 치의 오차도 없는 완전한 이해였다. 여기까지인 것 같아. 안긴 채로 내가 말했을 때 유령은 그래... ',
+      bloggername: '푸른 비 내리는 책의 숲을 거닐며',
+      bloggerlink: 'https://blog.naver.com/mysthj',
+      postdate: '20220605'
+    },
+    {
+      title: '나를 치유하는 나 : <b>임선우</b>, 유령의 마음으로',
+      link: 'https://blog.naver.com/love-affair?Redirect=Log&logNo=222803936187',
+      description: '<b>임선우</b> 작가의 &lt;유령의 마음으로&gt;에는 이처럼 움직이게 만드는 마음이 있다. 고인 마음이 아닌, 마음이... <b>임선우</b> 작가가 단정하게 빚은 유령과 단단한 활자에 빠져 깊은 잠수를 하며 읽은 단편이었다. 이... ',
+      bloggername: 'cowhyz',
+      bloggerlink: 'https://blog.naver.com/love-affair',
+      postdate: '20220707'
+    },
+    {
+      title: '&apos;우라까이 하루키&apos; : 첨밀밀과 화양연화 그리고 김초희, <b>임선우</b>... ',
+      link: 'https://blog.naver.com/ehdwls5712?Redirect=Log&logNo=222751405418',
+      description: "고경표 배우가 연기하는 '여명' 캐릭터와 26분 내내 낮게 깔리는 <b>임선우</b> 배우님의 나레이션이... 만옥(<b>임선우</b>)은 도통 시나리오가 써지지가 않아 목포로 내려와 생각을 정리하려 한다. 그리고 그 곳에서... ",
+      bloggername: 'Everything you wanted',
+      bloggerlink: 'https://blog.naver.com/ehdwls5712',
+      postdate: '20220529'
+    },
+    {
+      title: '<b>임선우</b>-유령의 마음으로',
+      link: 'https://blog.naver.com/cjsdhkdtjd000?Redirect=Log&logNo=222783855355',
+      description: '그것은 꿈처럼 아름다운 마음이었다.’ -<b>임선우</b>,유령의 마음으로 ---- ‘매일같이 하던일을 한순간에... ‘우리는 오래도록 햇빛아래 앉아있었다’ -<b>임선우</b>,빛이나지 않아요 ---- ‘여름은 물이 많아지는 계절. 한... ',
+      bloggername: 'Odradek',
+      bloggerlink: 'https://blog.naver.com/cjsdhkdtjd000',
+      postdate: '20220622'
+    },
+    {
+      title: '『유령의 마음으로』, <b>임선우</b> - 느슨해도 분명한 위로',
+      link: 'https://blog.naver.com/agkyu?Redirect=Log&logNo=222741188802',
+      description: '유령의 마음으로 저자 <b>임선우</b> 출판 민음사 발매 2022.03.25. 수록작 | 「유령의 마음으로」, 「빛이 나지 않아요」, 「여름은 물빛처럼」, 「낯선 밤에 우리는」, 「집에 가서 자야지」, 「동면하는 남자」... ',
+      bloggername: '그냥 공책',
+      bloggerlink: 'https://blog.naver.com/agkyu',
+      postdate: '20220521'
+    },
+    {
+      title: '우라까이하루키  티빙오리지널X김초희감독X고경표X<b>임선우</b>',
+      link: 'https://blog.naver.com/numi2017?Redirect=Log&logNo=222741021875',
+      description: "고경표와 <b>임선우</b>. 김초희감독님은 90년대 홍콩영화를 많이 좋아하시는 듯 합니다. ㅎㅎ 이 영화의 제대로된 이해를 위해서는 '첨밀밀' 과 '화양연화'를 익힘이 좋습니다. 첨밀밀 감독 진가신 출연 여명, 장만옥... ",
+      bloggername: '숏숏숏',
+      bloggerlink: 'https://blog.naver.com/numi2017',
+      postdate: '20220521'
+    },
+    {
+      title: '이현준 부부 / 발레리노 발레리나 / <b>임선우</b> 춤추는 헤르만헤세',
+      link: 'https://blog.naver.com/culture_girl?Redirect=Log&logNo=222677068581',
+      description: '내가 본 3.18(금) 캐스팅은 춘향-손유희 / 몽룡-이현준 / 변학도-강민우, 향단-오타 아리카, 방자-<b>임선우</b>, 월매-김채리 님이었다. (방자를 연기한 <b>임선우</b> 발레리노님... 진짜 너무 잘하더라 ㅠㅠ 몸이 가벼워서... ',
+      bloggername: '매순간 최선을 다하면 인생의 기회가 찾아온다',
+      bloggerlink: 'https://blog.naver.com/culture_girl',
+      postdate: '20220319'
+    },
+    {
+      title: '37. <b>임선우</b> - 유령의 마음으로',
+      link: 'https://blog.naver.com/ainmyo?Redirect=Log&logNo=222759791064',
+      description: '하지만 <b>임선우</b> 작가의 소설은 다른 길을 간다. 안락한 의자에 몸을 최대한 기대어 팔짱을 끼고서... &lt;집에 가서 자야지&gt; 아마 <b>임선우</b> 작가는 &lt;유령의 마음으로&gt; 같은 소설을 앞으로도 발표할 것이다. 하지만... ',
+      bloggername: '쥐구멍',
+      bloggerlink: 'https://blog.naver.com/ainmyo',
+      postdate: '20220605'
+    }
+  ]
+}
